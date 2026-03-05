@@ -23,7 +23,7 @@
 
 ## Introduction
 
-**nf-core/scrnaseq** is a bioinformatics best-practice analysis pipeline for processing 10x Genomics single-cell RNA-seq data.
+Version 4.1.0 **nf-core/scrnaseq** is a bioinformatics best-practice analysis pipeline for processing 10x Genomics single-cell RNA-seq data.
 
 This is a community effort in building a pipeline capable to support:
 
